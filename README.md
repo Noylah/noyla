@@ -2,7 +2,7 @@
 
 ### 🚀 aspiring full stack developer | problem solver
 
-i am a passionate developer focused on building practical solutions for real-world problems. i enjoy bridging the gap between clean **Frontend** interfaces and efficient **Backend** logic.
+I am a passionate developer focused on building practical solutions for real-world problems. I enjoy bridging the gap between clean **Frontend** interfaces and efficient **Backend** logic.
 
 ## 📱 Personal Project: StabiaBUS
 **The problem:** Lack of an easy, quick way to check bus schedules for local lines.
@@ -10,7 +10,7 @@ i am a passionate developer focused on building practical solutions for real-wor
 
 - **Tech Stack:** HTML5, CSS3, JavaScript, Vite.
 - **Key Feature:** Instant access to bus timetables with a mobile-first approach.
-- [Webapp URL](noylah.github.io/StabiaBUS) | [Source Code Link](https://github.com/Noylah/StabiaBUS)
+- [Webapp URL](https://noylah.github.io/StabiaBUS) | [Source Code Link](https://github.com/Noylah/StabiaBUS)
 
 ---
 
