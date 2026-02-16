@@ -1,8 +1,8 @@
-# hi there, i'm noyla 👋
+# hi there, i'm noyla... _or giuse_ 👋
 
 ### 🚀 aspiring full stack developer | problem solver
 
-I am a passionate developer focused on building practical solutions for real-world problems. I enjoy bridging the gap between clean **Frontend** interfaces and efficient **Backend** logic.
+I am a passionate developer and student focused on building practical solutions for real-world problems. I enjoy bridging the gap between clean **Frontend** interfaces and efficient **Backend** logic.
 
 ## 📱 Personal Project: StabiaBUS
 **The problem:** Lack of an easy, quick way to check bus schedules for local lines.
