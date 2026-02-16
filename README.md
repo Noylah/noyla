@@ -2,7 +2,7 @@
 
 ### 🚀 aspiring full stack developer | problem solver
 
-I am a passionate developer focused on building practical solutions for real-world problems. I enjoy bridging the gap between clean **Frontend** interfaces and efficient **Backend** logic.
+i am a passionate developer focused on building practical solutions for real-world problems. i enjoy bridging the gap between clean **Frontend** interfaces and efficient **Backend** logic.
 
 ## 📱 Personal Project: StabiaBUS
 **The problem:** Lack of an easy, quick way to check bus schedules for local lines.
@@ -10,7 +10,7 @@ I am a passionate developer focused on building practical solutions for real-wor
 
 - **Tech Stack:** HTML5, CSS3, JavaScript, Vite.
 - **Key Feature:** Instant access to bus timetables with a mobile-first approach.
-- <a src="noylah.github.io/StabiaBUS">[Webapp URL]</a> | <a src="https://github.com/Noylah/StabiaBUS">[Source Code Link]</a>
+- [Webapp URL](noylah.github.io/StabiaBUS) | [Source Code Link](https://github.com/Noylah/StabiaBUS)
 
 ---
 
@@ -30,6 +30,6 @@ I am a passionate developer focused on building practical solutions for real-wor
 
 ### 📫 Let's Connect
 - **Location:** Italy 🇮🇹
-- **Username:** <a src="t.me/sconfittoo">@sconfittoo</a>
+- **Telegram Username:** [@sconfittoo](t.me/sconfittoo)
 
 *"Turning local problems into digital solutions."*
